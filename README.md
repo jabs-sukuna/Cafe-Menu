@@ -2,9 +2,9 @@
 Using HTML and CSS to design a menu page for a cafe webpage
 Procedure:
 **HTML Part**
-HTML, the <div> tag is short for "division." It's a versatile and widely-used tag that allows you to group together elements in your web page. Think of it as a container for other elements—text, images, links, tables, or even other <div> tags. By using <div>, you can structure your content, style it with CSS, and manage it more effectively.
+The div tag is short for "division." It's a versatile and widely-used tag that allows you to group together elements in your web page. Think of it as a container for other elements—text, images, links, tables, or even other div tags. By using div, you can structure your content, style it with CSS, and manage it more effectively.
 
-The <section> tag in HTML is used to define a thematic grouping of content, typically related to a specific topic or purpose. It's like a way to organize content into meaningful sections within your webpage. While the <div> tag is more generic, the <section> tag carries semantic value, which helps both developers and browsers understand the structure of your content more effectively.
+The *<section>* tag in HTML is used to define a thematic grouping of content, typically related to a specific topic or purpose. It's like a way to organize content into meaningful sections within your webpage. While the <div> tag is more generic, the <section> tag carries semantic value, which helps both developers and browsers understand the structure of your content more effectively.
 
 he <article> tag in HTML is used to represent self-contained, independently distributable content.
 
